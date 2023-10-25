@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@300;500;600;800&family=Encode+Sans:wght@100;500&display=swap');
 :root {
   --es-red-bg: #7b040a;
   --es-red-bg-darker: #380100;
@@ -5,26 +6,6 @@
   --es-size-thin: #8cc798;
   --es-size-regular: #fff;
   --es-size-wide: #ff8415;
-}
-@font-face {
-  font-family: "One Night Sans Extended Thin";
-  src: url(../fonts/OneNightSans-ExtendedThin.woff) format("woff");
-}
-@font-face {
-  font-family: "One Night Sans Extended";
-  src: url(../fonts/OneNightSans-Extended.woff) format("woff");
-}
-@font-face {
-  font-family: "One Night Sans Extended Black";
-  src: url(../fonts/OneNightSans-ExtendedBlack.woff) format("woff");
-}
-@font-face {
-  font-family: "One Night Sans Thin";
-  src: url(../fonts/OneNightSans-Thin.woff) format("woff");
-}
-@font-face {
-  font-family: "One Night Sans Medium";
-  src: url(../fonts/OneNightSans-Medium.woff) format("woff");
 }
 
 /*********************************************************************/
